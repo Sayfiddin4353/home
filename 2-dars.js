@@ -46,12 +46,27 @@
 
 // round
 
-var a = 3.2;
-if (a % 1 >= 0.5) {
-    a= a - (a % 1) + 1;
-    console.log(a);
-} else {
-    a = a - (a % 1);
-    console.log(a)
-}
+// var a=7.7;
+// if (a % 1 >= 0.5) {
+//     a= a - (a % 1) + 1;
+//     console.log(a);
+// } else {
+//     a = a - (a % 1);
+//     console.log(a)
+// }
+
+// var name = "salom Assalom alo "
+// console.log(name.slice(2,5))
+// console.log(name.substr(1,3))
+// console.log(name.substring(2,5))
+// console.log(name.length)
+// console.log(name.padEnd(20,2))
+// console.log(name.indexOf("A"))
+// console.log(name.lastIndexOf("A"))
+// console.log(name.search("lom"))
+// console.log(name.includes("gan"))
+// console.log(name.replace("As",2))
+// console.log(name.repeat(4))
+
+
 
