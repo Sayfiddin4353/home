@@ -37,24 +37,16 @@
 
 // symbolli masalalar
 
-sym = ['@', 4, '@', '@'];
-function bool(arr) {
+// sym = ['@', '@', '@', '@'];
+// function bol(arr) {
     
-    for (i = 0; i < bool.length - 1; i++) {
-        if (arr[i] !== arr[i + 1]) {
-            return false;
-        }
-    }
-    return true;
-}
-bool(sym);
-console.log(bool(sym));
-
-
-
-// // 4-misol
-
-// const Test = (a) => {
-//     a = "SheWalksToTheBeach";
-
+//     for (i = 0; i < arr.length - 1; i++) {
+//         if (arr[i] !== arr[i + 1]) {
+//             return false;
+//         }
+//     }
+//     return true;
 // }
+// bol(sym);
+// console.log(bol(sym));
+
